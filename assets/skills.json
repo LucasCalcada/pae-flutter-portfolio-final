@@ -1,0 +1,52 @@
+[
+    {
+      "iconURL": "assets/icons/csharp.png",
+      "title": "C#",
+      "description": "Linguagem de programação desenvolvida pela Microsoft, utilizada principalmente na plataforma .NET e no desenvolvimento de jogos com a Unity."
+    },
+    {
+      "iconURL": "assets/icons/python.png",
+      "title": "Python",
+      "description": "Linguagem de programação de alto nível, reconhecida pela grande comunidade e pela ampla variedade de bibliotecas\nÉ muito utilizada nas áreas de inteligência artificial e ciência de dados."
+    },
+    {
+      "iconURL": "assets/icons/c.png",
+      "title": "C",
+      "description": "Linguagem de programação criada nos anos 1970 conhecida pela alta performace que oferece."
+    },
+    {
+      "iconURL": "assets/icons/html.png",
+      "title": "HTML",
+      "description": "A Hyper Text Markup Language é uma linguagem usada para criar e estruturar páginas na web."
+    },
+    {
+      "iconURL": "assets/icons/css.png",
+      "title": "CSS",
+      "description": "Cascading Style Sheets, é usada para estilizar documentos HTML, definindo tudo o que se refere à aparência e layout de uma página web."
+    },
+    {
+      "iconURL": "assets/icons/javascript.png",
+      "title": "JavaScript",
+      "description": "Linguagem fundamental para o comportamento de páginas web\nAtualmente é utilizada tanto frontend quanto no backend"
+    },
+    {
+      "iconURL": "assets/icons/linux.png",
+      "title": "Linux",
+      "description": "Sistema operacional de código aberto reconhecido pela sua flexibilidade.\nPode ser encontrado em diversos campos de atuação, sendo a principal escolha para servidores."
+    },
+    {
+      "iconURL": "assets/icons/gimp.png",
+      "title": "Gimp",
+      "description": "Software de código aberto para edição de imagens."
+    },
+    {
+      "iconURL": "assets/icons/inkscape.png",
+      "title": "Inkscape",
+      "description": "Software de código aberto para a edição de gráficos vetoriais."
+    },
+    {
+      "iconURL": "assets/icons/unity.png",
+      "title": "Unity",
+      "description": "Engine para desenvolvimento de jogos 2D e 3D, também utilizada em projetos de realidade aumentada e virtual"
+    }
+]

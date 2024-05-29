@@ -71,7 +71,6 @@ class _CarouselState extends State<Carousel>{
               padding: const EdgeInsets.all(8.0),
               children: [
                 ...skillData,
-                //for(int i = 0; i < 10; i++) CarouselIcon(data: testData),
               ],
             ),
           ),

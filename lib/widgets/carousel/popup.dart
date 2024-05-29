@@ -13,8 +13,6 @@ class CarouselIconPopup extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
     return Container(
-      //width: double.infinity,
-      //height: double.infinity,
       decoration: BoxDecoration(
         color: Theme.of(context).colorScheme.primary,
         borderRadius: const BorderRadius.vertical(top: Radius.circular(8.0)),
@@ -46,7 +44,6 @@ class CarouselIconPopup extends StatelessWidget{
                   child: AutoSizeText(
                     data.description, 
                     overflow: TextOverflow.ellipsis,
-                    //minFontSize: 16.0,
                   ),
                 )
               ],

@@ -32,16 +32,16 @@ class AboutPage extends StatelessWidget{
             style: Theme.of(context).textTheme.bodyLarge,
           ),
           Text(
-            "Kimauanisso: Entidade focada na participação de combate de robôs.",
+            "Kimauánisso: Equipe de robótica focada na participação de competições.",
             style: Theme.of(context).textTheme.bodyLarge,
           ),
           Text(
-            "Nawat Games: Entidade de desenvolvimento de jogos usando a Unity.",
+            "Nawat Games: Entidade de desenvolvimento de jogos usando Unity.",
             style: Theme.of(context).textTheme.bodyLarge,
           ),
           const SizedBox(height: 16.0),
           Text(
-            "Me interesso pela área de desenvolvemento de software, tendo interesse em projetos de código aberto",
+            "Me interesso pela área de desenvolvimento de software, tendo interesse em projetos de código aberto",
             style: Theme.of(context).textTheme.bodyLarge,
           )
         ],

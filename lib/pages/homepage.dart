@@ -1,6 +1,4 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:portfolio/pages/about_page.dart';
 import 'package:portfolio/widgets/appbaractions.dart';
 import 'package:portfolio/widgets/carousel/carousel.dart';
@@ -24,10 +22,6 @@ class Homepage extends StatelessWidget{
           )
         ),
         actions: const [
-          //AppbarActions(
-          //  title: "Projetos",
-          //  popupContent: AboutPage(),
-          //),
           AppbarActions(
             title: "Sobre",
             popupContent: AboutPage(),
